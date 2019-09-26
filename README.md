@@ -1,8 +1,9 @@
 # Combustiveis_Brasil_PySpark
 Teste com PySpark para manipulação de DataFrame a partir do Jupyter Lab
 
+# Instruções de uso
 >Utilizar Python 3.7
->Requer Spark instalado na máquina local
+>e requer Spark instalado na máquina local
 
 1- Instalar ambiente virtual (virtualenv)
 prompt>pip install virtualenv
