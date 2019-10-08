@@ -6,15 +6,15 @@ prompt>pip install virtualenv
 
 2- iniciar um ambiente virtual dentro da pasta do projeto
 c:\>cd pasta_do_projeto
-eleflow>virtualenv venv
-eleflow>cd venv/scripts
-eleflow\venv\Scripts>activate
-(venv)eleflow\venv\Scripts>cd ..\..
+projeto>virtualenv venv
+projeto>cd venv/scripts
+projeto\venv\Scripts>activate
+(venv)projeto\venv\Scripts>cd ..\..
 
 
 3- instalar todos os pacotes dentro 
 de requirements.txt no ambiente virtual
-(venv)eleflow>pip install -r requiriments.txt
+(venv)projeto>pip install -r requiriments.txt
 
 4- Para ler os scripts .ipynb inicie jupyterlab
-(venv)eleflow>jupyter lab
+(venv)projeto>jupyter lab
